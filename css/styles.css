@@ -1,0 +1,125 @@
+body {
+  background: #EBEBEB;
+}
+
+.logo_text {
+  width: 1000px;
+  height: 680px;
+  position: absolute;
+  left: 220px;
+  top: 44px;
+}
+
+.main {
+  display: inline-flex;
+  flex-direction: column;
+}
+
+.auth {
+  width: 250px;
+  height: 30px;
+  text-align: center;
+  margin: 256px 0 0 619px;
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 25px;
+  padding-bottom: 30px;
+}
+
+.second {
+  margin-left: 573.33px;
+  display: flex;
+  width: 301.23px;
+}
+
+.mail_image {
+  width: 23.33px;
+  height: 18.67px;
+  margin-top: 19.66px;
+  margin-right: 23.33px;
+}
+
+.email_block {
+  width: 250px;
+  height: 58px;
+  border: 1.74px solid #F50057;
+  box-sizing: border-box;
+  border-radius: 4.64px;
+  background: #EBEBEB;
+  margin: 0px 0 0 0;
+}
+
+.password_block {
+  width: 250px;
+  height: 58px;
+  background: #EBEBEB;
+  border: 1.74px solid #F50057;
+  box-sizing: border-box;
+  border-radius: 4.64px;
+  margin: 20px 0 0 21.17px;
+}
+
+.email {
+  font-family: Montserrat;
+  font-size: 11px;
+  font-weight: 400;
+  border: 0;
+  width: 216px;
+  height: 14px;
+  margin: 20px 0 0 13px;
+  background: #EBEBEB;
+}
+
+.third {
+  display: flex;
+  width: 296.84px;
+  margin-left: 572.17px;
+}
+
+.stars {
+  width: 25.67px;
+  height: 14px;
+  margin-top: 39.16px;
+}
+
+.password {
+  font-family: Montserrat;
+  font-size: 11px;
+  font-weight: 400;
+  border: 0;
+  width: 195px;
+  height: 14px;
+  margin: 20px 0 0 13px;
+  background: #EBEBEB;
+}
+
+.forth {
+  display: flex;
+  width: 296.84px;
+  margin-top: 20px;
+  margin-left: 572.17px;
+}
+
+.submit_button {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 10px;
+  color: white;
+  border: 0;
+  width: 100px;
+  height: 40px;
+  background: #F50057;
+  border-radius: 4px;
+  margin-left: 47px;
+}
+
+.forgot_pass {
+  text-decoration: none;
+  color: #676767;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  margin-top: 15px;
+  margin-left: 28px;
+}
